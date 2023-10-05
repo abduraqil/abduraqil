@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm a current Computer Science student studying at Rutgers University<br>I have experience in both Java and Python
+Hey, I'm a current Computer Science student at Rutgers University. I'm interested in app development and gamedev
 
 
 # 💻 Tech Stack:
