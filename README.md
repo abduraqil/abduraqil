@@ -3,6 +3,6 @@ Hey, I'm Abdur
 
 I'm a Software Engineer based in Hudson County, NJ. 
 
-Here are some of my favorite tech stacks
+Here are some of my favorite tech to use
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,vue,tailwind,docker,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,py,nuxtjs,vue,tailwind,godot,docker,androidstudio,blender)](https://skillicons.dev)
