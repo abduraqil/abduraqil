@@ -8,4 +8,4 @@ Hey! I'm Abdur,
 
 Here are some of my favorite tech to use
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,svelte,tailwind,godot,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,svelte,tailwind,postgres,godot,blender)](https://skillicons.dev)
